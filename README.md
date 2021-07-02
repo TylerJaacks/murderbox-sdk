@@ -94,3 +94,4 @@ The structure of the spawn json file is as follows.
     }
 }
 ```
+You must include your prop spawns this includes position, angle, and model name and make sure you follow the convention of clue1 clue2 ... clueN you will need at least 4 clues and you can have more if you wish and you will need your player spawns with the names spawn1 spawn2 ... + spawnN where is N is the maximum number of spawns. We don't have maximum yet or don't gracefully handle this yet so to be safe for now make sure you have at least 4 spawn points in the future we will gracefully handle more spawns this most include the position. Please make sure you follow these conventions. This document will look better in the future but for now this is how it is.
