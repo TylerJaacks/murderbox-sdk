@@ -6,6 +6,7 @@ If you are making a map for the Murderbox gamemode you need to have in the same 
 
 The structure of the spawn json file is as follows.
 
+```
 {
     "clue_spawns": {
         "clue1": {
@@ -92,3 +93,4 @@ The structure of the spawn json file is as follows.
         }
     }
 }
+```
